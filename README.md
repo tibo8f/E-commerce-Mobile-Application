@@ -1,3 +1,5 @@
+Mobile version of my marketplace application built with React Native using the API and database I created in the web part of the application. Features user registration, item management, and a shared API and database, similar to Vinted.
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
